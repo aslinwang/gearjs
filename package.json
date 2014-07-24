@@ -1,0 +1,28 @@
+{
+  "name": "gearjs",
+  "version": "0.0.1",
+  "description": "utils for nodejs",
+  "main": "gear.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aslinwang/gearjs.git"
+  },
+  "keywords": [
+    "utils",
+    "async"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "aslinwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aslinwang/gearjs/issues"
+  },
+  "dependencies": {
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "q": "~1.0.1"
+  }
+}
