@@ -1,8 +1,9 @@
 gearjs
 ======
 
-some useful tools for nodejs development
-some tools are from https://github.com/wyicwx/mutils
+Some useful tools for nodejs development
+
+Some tools are from https://github.com/wyicwx/mutils
 
 ##Usage
 ```javascript
