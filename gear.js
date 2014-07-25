@@ -20,10 +20,10 @@ exports.do = function(fn){
 }
 
 //职责链对象
-var Connect = require('./lib/connect');
-exports.Connect = Connect;
+var conn = require('./lib/connect');
+exports.Connect = conn.Connect;
 exports.connect = function(){
-  return new Connect();
+  return new exports.Connect();
 }
 
 //文件操作类
