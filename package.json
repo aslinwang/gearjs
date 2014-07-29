@@ -1,6 +1,6 @@
 {
   "name": "gearjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "utils for nodejs",
   "main": "gear.js",
   "repository": {
@@ -20,9 +20,9 @@
     "url": "https://github.com/aslinwang/gearjs/issues"
   },
   "dependencies": {
-    "underscore": "*"
+    "underscore": "*",
+    "q": "~1.0.1"
   },
   "devDependencies": {
-    "q": "~1.0.1"
   }
 }
