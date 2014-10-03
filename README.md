@@ -28,6 +28,12 @@ gear.fs.readFile('http://test.com/test.js').done(function(data){//read net file
   //content of test.js
 });
 
+gear.fs.copyFile(file, tarDir, [
+  { regexp : '@', replacement : '-'}
+]).done(function(src){
+  
+});
+
 gear.fs.clearDirSync('a', function(){//remove all files from 'a' directory
   //do something
 });
