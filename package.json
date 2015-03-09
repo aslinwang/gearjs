@@ -1,6 +1,10 @@
 {
   "name": "gearjs",
+<<<<<<< HEAD
   "version": "0.0.5",
+=======
+  "version": "0.0.6",
+>>>>>>> master
   "description": "utils for nodejs",
   "main": "gear.js",
   "repository": {
