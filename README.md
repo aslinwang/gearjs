@@ -29,11 +29,7 @@ gear.fs.readFile('http://test.com/test.js').done(function(data){//read net file
 });
 
 gear.fs.copyFile(file, tarDir, [
-<<<<<<< HEAD
-  { regexp : '@', replacement : '-'}
-=======
   { match : '@', replacement : '-', isreg:false}
->>>>>>> master
 ]).done(function(src){
   
 });
