@@ -1,10 +1,6 @@
 {
   "name": "gearjs",
-<<<<<<< HEAD
   "version": "0.0.8",
-=======
-  "version": "0.0.7",
->>>>>>> 3095599c73fe754f550ffab0ebf09bdb8b93c896
   "description": "utils for nodejs",
   "main": "gear.js",
   "repository": {
