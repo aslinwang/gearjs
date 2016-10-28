@@ -29,6 +29,9 @@ exports.connect = function(){
 //文件操作类
 exports.fs = require('./lib/fs');
 
+//工具类
+exports.util = require('./lib/util');
+
 //数据监听
 exports.listen = require('./lib/listen').listen;
 
