@@ -1,6 +1,6 @@
 {
   "name": "gearjs",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "utils for nodejs",
   "main": "gear.js",
   "repository": {
