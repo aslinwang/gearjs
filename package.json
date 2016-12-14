@@ -1,6 +1,6 @@
 {
   "name": "gearjs",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "utils for nodejs",
   "main": "gear.js",
   "repository": {
@@ -22,7 +22,8 @@
   "dependencies": {
     "underscore": "*",
     "q": "~1.0.1",
-    "lodash": "^4.16.4"
+    "lodash": "^4.16.4",
+    "iconv-lite": "0.2.10"
   },
   "devDependencies": {
     
